@@ -1,0 +1,2 @@
+class Drink < Item
+end
